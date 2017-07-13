@@ -1,0 +1,91 @@
+,iat_id,create_dt,analyst,iat_name,summary_offices,summary_hcps,summary_inc_nrx
+0,10017,2017-04-13,bodonnell,depression class 1_lexapro,2166,2269,5492
+1,10020,2017-04-13,bodonnell,acne drug class 2_acanya,1800,2601,33597
+2,10037,2017-04-13,bodonnell,asthma class 7_asthma class 7,0,0,0
+3,10041,2017-04-13,bodonnell,osteoperosis class 3_minivelle,0,0,0
+4,10047,2017-04-13,bodonnell,osteoperosis class 3_,0,0,0
+5,10051,2017-04-13,bodonnell,acne drug class 5_retin a,1211,1259,8353
+6,10076,2017-04-13,bodonnell,pulm_4_adcirca,550,477,1604
+7,10085,2017-04-13,bodonnell,acne_7_adoxa,4,3,3
+8,10086,2017-04-13,bodonnell,acne_7_solodyn,1610,2402,96846
+9,10087,2017-04-13,bodonnell,acne_7_acne drug class 7,0,0,0
+10,10089,2017-04-13,bodonnell,asth_4_asmanex,0,0,0
+11,10100,2017-04-13,bodonnell,cong_1_altace,809,737,1384
+12,10106,2017-04-13,bodonnell,mult_5_gilenya,744,873,6805
+13,10107,2017-04-13,bodonnell,mult_5_avonex,1138,1260,7935
+14,10108,2017-04-13,bodonnell,mult_5_betaseron,651,675,2506
+15,10111,2017-04-13,bodonnell,mult_5_extavia,190,153,333
+16,10122,2017-04-13,bodonnell,thro__pradaxa,4361,6525,54750
+17,10123,2017-04-13,bodonnell,thro__lovenox,405,388,1023
+18,10124,2017-04-13,bodonnell,thro__sotradecol,0,0,0
+19,10129,2017-04-13,bodonnell,esop_2_protonix,2993,3051,12097
+20,10135,2017-04-13,bodonnell,esop_2_esophagitis class 2,0,0,0
+21,10140,2017-04-13,bodonnell,acne_5_aczone,2473,3636,162293
+22,10146,2017-04-13,bodonnell,asth_7_advair diskus,10746,19007,408518
+23,10148,2017-04-13,bodonnell,asth_7_breo ellipta,6752,9949,128855
+24,10151,2017-04-13,bodonnell,asth_7_xopenex,380,309,574
+25,10158,2017-04-13,bodonnell,meno_2_estraderm,0,0,0
+26,10161,2017-04-13,bodonnell,meno_2_angeliq,248,215,497
+27,10164,2017-04-13,bodonnell,meno_2_alora,0,0,0
+28,10179,2017-04-14,bodonnell,cata_2_cataract unsp class 2,0,0,0
+29,10190,2017-04-14,bodonnell,hype_1_vasotec,222,189,366
+30,10199,2017-04-14,bodonnell,epil_4_carbatrol,819,862,3152
+31,10202,2017-04-14,bodonnell,epil_4_neurontin,1099,950,1987
+32,10233,2017-04-14,bodonnell,acne_1_acne drug class 1,0,0,0
+33,10234,2017-04-14,bodonnell,huma_g_basaglar kwikpe,1412,1561,3198
+34,10236,2017-04-14,bodonnell,huma_g_tresiba flextou,4422,5845,77716
+35,10237,2017-04-14,bodonnell,huma_g_humalog,8930,15420,515367
+36,10243,2017-04-14,bodonnell,pneu_4_zithromax,206,175,304
+37,10257,2017-04-14,bodonnell,diab_1_bydureon,3831,5205,49452
+38,10268,2017-04-14,bodonnell,pulm_3_pulmonary hypertension class 3,0,0,0
+39,10274,2017-04-14,bodonnell,adhd_3_quillivant xr,772,901,23999
+40,10282,2017-04-14,bodonnell,geni_s_condylox,1489,1394,3234
+41,10290,2017-04-14,bodonnell,ocul_n_acular,40,26,33
+42,10302,2017-04-14,bodonnell,hype_3_avapro,719,634,1335
+43,10316,2017-04-14,bodonnell,copd_4_copd class 4,0,0,0
+44,10335,2017-04-14,bodonnell,skin_s_skin infections,0,0,0
+45,10337,2017-04-14,bodonnell,glau_1_timoptic,87,60,81
+46,10339,2017-04-14,bodonnell,glau_1_cosopt,534,543,2125
+47,10346,2017-04-14,bodonnell,urea_s_urea cycle disorders,0,0,0
+48,10352,2017-04-14,bodonnell,asth_3_nucala,196,180,518
+49,10313,2017-04-14,bodonnell,copd_4_atrovent hfa,0,0,0
+50,10336,2017-04-14,bodonnell,glau_1_betimol,0,0,0
+51,10359,2017-04-14,bodonnell,utic_2_clarinex redita,7,4,6
+52,10364,2017-04-14,bodonnell,utic_2_clarinex d 12 h,652,586,1504
+53,10374,2017-04-14,bodonnell,ecze_1_vanos,131,103,187
+54,10384,2017-04-14,bodonnell,diab_1_diabetes glp1,0,0,0
+55,10385,2017-04-14,bodonnell,lupu_s_cellcept,342,307,786
+56,10390,2017-04-14,bodonnell,lupu_s_lupus,0,0,0
+57,10392,2017-04-14,bodonnell,hype_8_caduet,403,347,678
+58,10393,2017-04-14,bodonnell,hype_8_crestor,10954,20659,485103
+59,10401,2017-04-14,bodonnell,uret_c_urethritis atrophic,0,0,0
+60,10406,2017-04-14,bodonnell,amd _1_lucentis,25,18,95
+61,10407,2017-04-14,bodonnell,amd _1_amd drug class 1,0,0,0
+62,10409,2017-04-14,bodonnell,psor_2_remicade,1000,1240,6117
+63,10410,2017-04-14,bodonnell,psor_2_humira pen psor,2991,3878,25008
+64,10413,2017-04-14,bodonnell,psor_2_cimzia,1297,1732,9601
+65,10424,2017-04-14,bodonnell,pneu_1_pneumonia class 1,0,0,0
+66,10436,2017-04-14,bodonnell,ecze_1_eczema dermatitis class 1,0,0,0
+67,10438,2017-04-14,bodonnell,hype_4_coreg,5008,6725,27832
+68,10448,2017-04-14,bodonnell,copd_1_flovent,8660,14564,130843
+69,10460,2017-04-14,bodonnell,hep _t_olysio,2,2,4
+70,10461,2017-04-14,bodonnell,hep _t_hep c treatment,0,0,0
+71,10471,2017-04-14,bodonnell,ra c_6_ra class 6,0,0,0
+72,10479,2017-04-14,bodonnell,hep _s_recombivax hb,392,341,1923
+73,10481,2017-04-14,bodonnell,ocul_s_zithromax tri p,17,18,25
+74,10492,2017-04-14,bodonnell,epil_3_phenytek,738,638,1636
+75,10499,2017-04-14,bodonnell,epil_3_epilepsy class 3,0,0,0
+76,10503,2017-04-14,bodonnell,gout_2_zurampic,77,57,92
+77,10508,2017-04-14,bodonnell,hiv _4_norvir,1279,1326,29427
+78,10512,2017-04-14,bodonnell,hiv _4_reyataz,781,848,11216
+79,10515,2017-04-14,bodonnell,dry _3_restasis,5183,6197,74331
+80,10523,2017-04-14,bodonnell,copd_2_symbicort,9775,16820,364731
+81,10525,2017-04-14,bodonnell,copd_2_anoro ellipta,4654,5819,44942
+82,10529,2017-04-14,bodonnell,copd_2_spiriva respima,5271,7035,52768
+83,10535,2017-04-14,bodonnell,rosa_1_rosula,352,302,715
+84,10537,2017-04-14,bodonnell,cong_2_diovan,4999,6128,19261
+85,10548,2017-04-14,bodonnell,diab_4_nesina,864,882,2473
+86,10554,2017-04-14,bodonnell,depr_3_emsam,101,91,383
+87,10558,2017-04-14,bodonnell,thro_t_lovenox,405,388,1023
+88,10571,2017-04-14,bodonnell,chro_1_stelara,1892,2513,18340
+89,10575,2017-04-14,bodonnell,chro_1_entyvio,369,421,1534
