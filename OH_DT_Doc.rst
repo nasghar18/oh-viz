@@ -22,7 +22,7 @@ The way it's been integrated with OH's data is as follows:
 
 	    return render_template("test.html",test=test,csv=csv, seccsv=seccsv)
 
-	    :
+	    ::
 
   	And in Javascript:
 
@@ -31,7 +31,7 @@ The way it's been integrated with OH's data is as follows:
 	   	var dataSet = {{csv|safe}};
 		var secdataSet = {{seccsv|safe}};
 
-		:
+		::
 
 	The data is now stored in the variables *dataSet* and *secdataSet*
 
@@ -47,7 +47,7 @@ The way it's been integrated with OH's data is as follows:
                       return 0
                     };
                   };
-        : 
+        :: 
 
 
 
