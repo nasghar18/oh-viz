@@ -7,7 +7,7 @@ The goal of the DataTable integration is to use that framework and plug in IAT a
 
 The way it's been integrated with OH's data is as follows:
 
-	The data is first converted into a variable DataTables can use:
+The data is first converted into a variable DataTables can use:
 
 		::
 
@@ -22,16 +22,16 @@ The way it's been integrated with OH's data is as follows:
 
 	    return render_template("test.html",test=test,csv=csv, seccsv=seccsv)
 
-  	And in Javascript:
+And in Javascript:
 
 	   	::
 
 	   	var dataSet = {{csv|safe}};
 		var secdataSet = {{seccsv|safe}};
 
-	The data is now stored in the variables *dataSet* and *secdataSet*
+The data is now stored in the variables *dataSet* and *secdataSet*
 
-	Before DataTables, a function is made to allow DataTables to render one of the data columns as links, the links themselves to be added at a later point. 
+Before DataTables, a function is made to allow DataTables to render one of the data columns as links, the links themselves to be added at a later point: 
 
 		::
 
