@@ -9,17 +9,17 @@ The way it's been integrated with OH's data is as follows:
 
 The data is first converted into a variable DataTables can use:
 
-.. code-block::Python
+..code-block::Python
 
-def index():
+	def index():
 
-df = pd.read_csv('static/data/2ndiat.csv')[['analyst','create_dt','iat_id','iat_name','summary_offices']]
-csv = df.to_json(orient='records')
+	df = pd.read_csv('static/data/2ndiat.csv')[['analyst','create_dt','iat_id','iat_name','summary_offices']]
+	csv = df.to_json(orient='records')
 
-secdf = pd.read_csv('static/data/iat.csv')[['analyst','create_dt','iat_id','iat_name','summary_offices']]
-seccsv = secdf.to_json(orient='records')
+	secdf = pd.read_csv('static/data/iat.csv')[['analyst','create_dt','iat_id','iat_name','summary_offices']]
+	seccsv = secdf.to_json(orient='records')
 
-return render_template("test.html",test=test,csv=csv, seccsv=seccsv)
+	return render_template("test.html",test=test,csv=csv, seccsv=seccsv)
 
 And in Javascript:
 
