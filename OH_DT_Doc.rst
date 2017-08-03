@@ -9,7 +9,7 @@ The way it's been integrated with OH's data is as follows:
 
 The data is first converted into a variable DataTables can use:
 
-		::
+		.. code-block::Python
 
 		def index():
 
