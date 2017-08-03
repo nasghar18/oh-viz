@@ -97,7 +97,7 @@ Lastly "dom" allows for each feature of the table to be custom sized. The differ
 
 DataTables can be manipulated to have multiple tables on a page with different sizes and features, all coming from different data sources.
 
-More information on how to further use DataTables can be found on the DataTables website.
+More information on how to further use DataTables can be found on the `DataTables website <https://datatables.net/>`_ .
 
 
 
