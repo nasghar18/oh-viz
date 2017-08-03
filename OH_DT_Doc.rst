@@ -23,7 +23,7 @@ The data is first converted into a variable DataTables can use:
 
 And in Javascript:
 
-	   	::
+.. code-block:: javascript
 
 	   	var dataSet = {{csv|safe}};
 		var secdataSet = {{seccsv|safe}};
@@ -32,7 +32,7 @@ The data is now stored in the variables *dataSet* and *secdataSet*
 
 Before DataTables, a function is made to allow DataTables to render one of the data columns as links, the links themselves to be added at a later point: 
 
-		::
+.. code-block:: javascript
 
 		function LINKFunc(data, type, row, meta){
                     if(type === 'display'){
